@@ -3,7 +3,7 @@ protoactor-go 中文文档
 
 ## Proto.Actor 框架
 
-以下为Proto.Actor官方文档的中文翻译
+以下为Proto.Actor[官方文档](https://proto.actor/docs/)的中文翻译
 
 ### 介绍
 
