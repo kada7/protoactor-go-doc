@@ -1,4 +1,4 @@
-# Actor (参与者)
+# Actor (actor)
 
 ## 特性
 - 使用函数/方法创建actor
@@ -102,6 +102,6 @@
 # Remote
 
 - Remote.Start() 在给定地址上启动远程actor服务器
-- RemoteProcess代表远程角色服务器上的actor
+- RemoteProcess代表远程actor服务器上的actor
 - 可以watch远程actor
 - EndpointWriter邮箱收集批量消息以优化发送
