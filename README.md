@@ -1,6 +1,8 @@
 # protoactor-go-doc
 protoactor-go 中文文档
 
+目前所有翻译都是通过机翻+简单校验实现的，如果有更好的建议，请提issue
+
 ## Proto.Actor 框架
 
 以下为Proto.Actor[官方文档](https://proto.actor/docs/)的中文翻译
